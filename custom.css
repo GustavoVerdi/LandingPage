@@ -30,13 +30,14 @@ body {
     writing-mode: horizontal-tb;
   }
   .logopag {
-    width: 100%;
-    border: 1px inherit black;
-    background-color: rgb(255, 255, 255);;
-    height: 75px;
-    display: flex;
-    justify-content: center;
-    writing-mode: horizontal-tb;
+        height: 100vh;
+        min-height: 300px;
+        background: no-repeat center center scroll;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      
   }
 .ulcabecalho {
     list-style: none;
