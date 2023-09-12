@@ -407,14 +407,11 @@ background-position: center top;
     background-color: #111;
 }
 
-.myH2 {
+.myH2,myH3 {
 	text-align:center;
 	font-size: 3rem;
 }
-.myH3 {
-	text-align:center;
-	font-size: 2rem;
-}
+
 .myP {
 	text-align: justify;
 	padding-left:15%;
